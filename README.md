@@ -1,2 +1,94 @@
 # 42
-Index repository of all my projects at @42School
+Welcome to my coding journey at 42!
+
+![2](https://github.com/user-attachments/assets/a1814f18-0fa9-4e1f-a74b-40a717251f59)
+
+#### libft
+The goal of this project is to code from scratch basic utils functions from standard C libraries like `stdlib.h`, `unistd.h` and `string.h`.
+
+__My libft passed with final grade of 125/100. Check out my work [here](https://github.com/rwintgen/libft).__
+
+-----
+
+![3](https://github.com/user-attachments/assets/a891383e-6084-40f0-b57c-50a6edb97d7b)
+
+#### ft_printf
+ft_print fis a function that replicates the behavior of the C printf function from `stdio.h`.
+
+__My ft_printf passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/ft_printf).__
+
+-----
+
+![4](https://github.com/user-attachments/assets/3915c460-b043-472f-bd0b-c914a34ed6a6)
+
+#### get_next_line
+The function get_next_line returns the first (or next) line of one or several files which FDs are passed as parameter.
+
+__My get_next_line passed with final grade of 125/100. Check out my work [here](https://github.com/rwintgen/get_next_line).__
+
+-----
+
+![5](https://github.com/user-attachments/assets/9b834fd6-30e1-49ea-855b-17f020b58e42)
+
+#### Born2beroot
+The goal of this project is to manually partition and setup a VM running on Debian, and configure services like phpmyadmin, wordpress, MariaDB, ufw...
+
+I'm afraid you're gonna have to figure this one out by yourself. __You can check out my monitoring script [here](https://github.com/rwintgen/Born2beRoot) though. Passed with final grade of 125/100.__
+
+-----
+
+![6](https://github.com/user-attachments/assets/551794d8-20b6-49dc-91d1-90f4de29b35f)
+
+#### FdF
+The goal of FdF is to parse a 2D map of integers of variable sizes and render them in 3D.
+
+__My FdF passed with final grade of 120/100. Check out my work [here](https://github.com/rwintgen/FdF).__
+
+-----
+
+![8](https://github.com/user-attachments/assets/319f3ea6-045b-4341-9483-786f105c17f6)
+
+#### pipex
+Pipex is a program designed to replicate the behaviour of unix pipes "|".
+
+__My pipex passed with final grade of 108/100. Check out my work [here](https://github.com/rwintgen/pipex).__
+
+-----
+
+![7](https://github.com/user-attachments/assets/5bd4cba6-581c-4ece-b2ab-6ba3319642aa)
+
+#### push_swap
+Push_swap is a program which goal is to sort a set of random integers by ascending order in the least amount of operations as possible using 2 stacks.  
+Completed by implementing [A. Yigit Ogun](https://github.com/ayogun)'s Turk Algorithm.
+
+__My push_swap passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/push_swap).__
+
+-----
+
+![10](https://github.com/user-attachments/assets/3aae4c11-211b-4471-a6c1-b0a11ee17b02)
+
+#### Philosophers
+Classic computer science problem solved in C.  
+Built upon [Oceano](https://github.com/suspectedoceano)'s [solution](https://youtu.be/zOpzGHwJ3MU?si=kNvIcqguiE0a-Xkt), thank you my friend!  
+!! Bonus part largely dysfunctional !!
+
+__My Philosophers passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/Philosophers).__
+
+-----
+
+![9](https://github.com/user-attachments/assets/2618b2f2-fbde-4581-8225-6d930f6d3b2c)
+
+#### Minishell
+Minishell is a custom shell that replicates basic features of the BASH shell.
+
+__My Minishell passed with final grade of 101/100. Check out my work [here](https://github.com/rwintgen/Minishell).__
+
+-----
+
+![11](https://github.com/user-attachments/assets/d160f4a9-10b0-44ac-b9fd-fd00f0b8825c)
+
+#### cub3D
+A FPS coded fully in C using Raycasting - just like the very first FPS to ever run smoothly on old hardware, Wolfenstein 3D.
+
+__I haven't completed this project yet, but you can steal my work [here](https://github.com/rwintgen/Cub3D).__
+
