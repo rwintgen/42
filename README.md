@@ -103,7 +103,7 @@ __My Inception passed with final grade of 100/100. Check out my work [here](http
 
 -----
 
-![42-2](https://github.com/user-attachments/assets/7cf4dd0e-0d5b-402c-b1e6-82ed8e303682)
+![42-3](https://github.com/user-attachments/assets/000116e7-a238-4ff6-bf29-bd689c306ffa)
 
 #### NetPractice
 A set of networking, routing and subnetting exercices that serve as an introduction to system administration.
