@@ -85,7 +85,7 @@ __My Minishell passed with final grade of 101/100. Check out my work [here](http
 
 -----
 
-[![11](https://github.com/user-attachments/assets/d160f4a9-10b0-44ac-b9fd-fd00f0b8825c)]([https://github.com/rwintgen/Cub3D](https://github.com/arthurmalangin))
+[![11](https://github.com/user-attachments/assets/d160f4a9-10b0-44ac-b9fd-fd00f0b8825c)](https://github.com/arthurmalangin))
 
 #### cub3D
 A FPS coded fully in C using Raycasting - just like the very first FPS to ever run smoothly on old hardware, Wolfenstein 3D.
