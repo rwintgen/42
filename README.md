@@ -90,4 +90,13 @@ __My Minishell passed with final grade of 101/100. Check out my work [here](http
 #### cub3D
 A FPS coded fully in C using Raycasting - just like the very first FPS to ever run smoothly on old hardware, Wolfenstein 3D.
 
-__My Minishell passed with final grade of 105/100, you can get it on my mate [@arthurmalangin](https://github.com/arthurmalangin)'s [github](https://github.com/arthurmalangin/42_Cub3D).__
+__My cub3d passed with final grade of 105/100, you can get it on my mate [@arthurmalangin](https://github.com/arthurmalangin)'s [github](https://github.com/arthurmalangin/42_Cub3D).__
+
+-----
+
+![42-2](https://github.com/user-attachments/assets/7cf4dd0e-0d5b-402c-b1e6-82ed8e303682)
+
+#### cub3D
+A FPS coded fully in C using Raycasting - just like the very first FPS to ever run smoothly on old hardware, Wolfenstein 3D.
+
+__My Inception passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/Minishell) and read about how I completed it [here](https://medium.com/@wintgensromain/42-inception-project-a-beginners-guide-c1e2ab19bb9d).__
