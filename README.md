@@ -109,3 +109,12 @@ __My NetPractice passed with final grade of 100/100. Check out my work [here](ht
 A system administration project where we virtualize several Docker images, including Nginx, WordPress, and MariaDB, on a personal virtual machine.
 
 __My Inception passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/Inception) and read about how I completed it [here](https://medium.com/@wintgensromain/42-inception-project-a-beginners-guide-c1e2ab19bb9d).__
+
+-----
+
+[![42-2](https://github.com/user-attachments/assets/7cf4dd0e-0d5b-402c-b1e6-82ed8e303682)](https://github.com/rwintgen/Inception)
+
+#### ft_transcendence
+A full-stack web-app competitive platform where users can challenge each other on native games. Coded in Django (python), HTML, CSS, JavaScript and built on Docker.
+
+__My ft_transcendence passed with final grade of 125/100. Check out my work [here](https://github.com/arthurmalangin/42_ft_transcendence).__
