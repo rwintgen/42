@@ -111,8 +111,7 @@ A system administration project where we virtualize several Docker images, inclu
 __My Inception passed with final grade of 100/100. Check out my work [here](https://github.com/rwintgen/Inception) and read about how I completed it [here](https://medium.com/@wintgensromain/42-inception-project-a-beginners-guide-c1e2ab19bb9d).__
 
 -----
-
-[![42 (1)](https://github.com/user-attachments/assets/96b21a68-c92d-47ad-aa14-4652d253d782)](https://github.com/arthurmalangin/42_ft_transcendence)
+[![42 (2)](https://github.com/user-attachments/assets/ef1bfb58-f81b-412a-95e0-e78880491c93)](https://github.com/arthurmalangin/42_ft_transcendence)
 
 #### ft_transcendence
 A full-stack web-app competitive platform where users can challenge each other on native games. Coded in Django (python), HTML, CSS, JavaScript and built on Docker.
