@@ -112,7 +112,7 @@ __My Inception passed with final grade of 100/100. Check out my work [here](http
 
 -----
 
-[![42-2](https://github.com/user-attachments/assets/7cf4dd0e-0d5b-402c-b1e6-82ed8e303682)](https://github.com/rwintgen/Inception)
+[![42 (1)](https://github.com/user-attachments/assets/96b21a68-c92d-47ad-aa14-4652d253d782)](https://github.com/arthurmalangin/42_ft_transcendence)
 
 #### ft_transcendence
 A full-stack web-app competitive platform where users can challenge each other on native games. Coded in Django (python), HTML, CSS, JavaScript and built on Docker.
